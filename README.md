@@ -1,17 +1,14 @@
+# 高质量<免费>交流群
+
+点击链接加入群聊【IPQ技术讨论群】：https://qm.qq.com/q/v7nMhzB4oU
+该群为普通交流群。
+
+# 高质量<付费>中转站
+
+点击链接加入群聊【LiBwrt-Ai学习】：https://qm.qq.com/q/HTa7OiWNCU
+该群为AI中转站群。
+
 # OpenWRT-CI
-<<<<<<< HEAD
-云编译OpenWRT固件
-
-官方版：
-https://github.com/immortalwrt/immortalwrt.git
-
-高通版：
-https://github.com/VIKINGYFY/immortalwrt.git
-
-# 固件简要说明：
-
-固件每天早上4点自动编译。
-=======
 
 官方版：
 
@@ -46,26 +43,18 @@ https://drive.wrt.moe/uboot/mediatek
 # 固件简要说明
 
 固件每天早上5点自动编译。
->>>>>>> viking/main
 
 固件信息里的时间为编译开始的时间，方便核对上游源码提交时间。
 
 MEDIATEK系列、QUALCOMMAX系列、ROCKCHIP系列、X86系列。
 
-<<<<<<< HEAD
-# 目录简要说明：
-=======
 # 目录简要说明
->>>>>>> viking/main
 
 workflows——自定义CI配置
 
 Scripts——自定义脚本
 
 Config——自定义配置
-<<<<<<< HEAD
-=======
 
 #
 [![Stargazers over time](https://starchart.cc/VIKINGYFY/OpenWRT-CI.svg?variant=adaptive)](https://starchart.cc/VIKINGYFY/OpenWRT-CI)
->>>>>>> viking/main
